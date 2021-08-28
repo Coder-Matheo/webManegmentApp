@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="@string/categ_lang_title">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="background_color"
+            android:title="@string/background_title"
+            android:summary="@string/background_summary"
+            android:summaryOff="@string/background_summaryOff"
+            android:summaryOn="@string/background_summaryOn"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/lang_name">
+        <Preference android:title="@string/title_lang"
+            android:key="btn_test"
+            />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

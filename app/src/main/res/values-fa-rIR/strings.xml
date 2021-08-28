@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برنامه مدیریت وب</string>
+    <string name="fehler_url">Die URL nicht exists</string>
+    <string name="title_activity_settings2">SettingsActivity2</string>
+
+    <string name="categ_lang_title">نمایش دادن</string>
+    <!--Language Preferences category Title-->
+    <string name="lang_name">زبان</string>
+    <string name="summary_list_lang">"زبان برنامه خود را انتخاب کنید"</string>
+    <string name="title_lang">فارسی زبان برنامه است</string>
+
+    <string name="en_name_title">انگلیسی</string>
+    <string name="de_name_title">آلمانی</string>
+    <string name="fa_name_title">فارسی</string>
+
+    <string name="background_title">رنگ پس زمینه</string>
+    <string name="background_summary">رنگ صفحه نمایش خود را تغییر دهید</string>
+    <string name="background_summaryOff">صفحه نمایش دارای زمینه سفید است</string>
+    <string name="background_summaryOn">صفحه نمایش دارای زمینه سفید است</string>
+    <!-- Preference Titles -->
+    <!--Navigation String-->
+    <string name="title_nav">عنوان</string>
+    <string name="open_nav">نام را باز کنید</string>
+    <string name="setting_nav">تنظیمات</string>
+
+    <string name="btn_getSave_name">URL را دریافت و ذخیره کنید </string>
+</resources>

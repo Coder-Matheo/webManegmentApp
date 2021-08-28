@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Webverwaltungs-App</string>
+    <string name="fehler_url">Die URL nicht exists</string>
+    <string name="title_activity_settings2">SettingsActivity2</string>
+
+    <string name="categ_lang_title">Anzeige</string>
+    <!--Language Preferences category Title-->
+    <string name="lang_name">Sprache</string>
+    <string name="summary_list_lang">Wählen deine App Sprache aus</string>
+    <string name="title_lang">Deutsch ist App-Sprache</string>
+
+    <string name="en_name_title">Englisch</string>
+    <string name="de_name_title">Deutsch</string>
+    <string name="fa_name_title">Persisch</string>
+    <!---->
+    <string name="background_title">Hintergrundfarbe</string>
+    <string name="background_summary">Ändern Sie Ihre Displayfarbe</string>
+    <string name="background_summaryOff">Display hat weißen Hintergrund</string>
+    <string name="background_summaryOn">Display hat schwarzen Hintergrund</string>
+    <!--Navigation String-->
+    <string name="title_nav">Titel</string>
+    <string name="open_nav">Name öffnen</string>
+    <string name="setting_nav">Einstellung</string>
+
+    <!--Open New Site-->
+    <string name="btn_getSave_name">URL abrufen und speichern</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Web menagement App</string>
+    <string name="fehler_url">Die URL nicht exists</string>
+    <string name="title_activity_settings2">SettingsActivity2</string>
+
+    <string name="categ_lang_title">Display</string>
+    <!--Language Preferences category Title-->
+    <string name="lang_name">Language</string>
+    <string name="summary_list_lang"> Choose your Language App</string>
+    <string name="title_lang">English is App Language</string>
+    <string name="en_name_title">English</string>
+    <string name="de_name_title">German</string>
+    <string name="fa_name_title">Persian</string>
+
+    <!---->
+    <string name="background_title">Background Color</string>
+    <string name="background_summary">Change your Display color</string>
+    <string name="background_summaryOff">Display has White Background</string>
+    <string name="background_summaryOn">Display has Black Background</string>
+
+    <!--Navigation String-->
+    <string name="title_nav">Title</string>
+    <string name="open_nav">Open Name</string>
+    <string name="setting_nav">Setting</string>
+
+    <!--Open New Site-->
+    <string name="btn_getSave_name">Get and Save URL</string>
+
+</resources>
